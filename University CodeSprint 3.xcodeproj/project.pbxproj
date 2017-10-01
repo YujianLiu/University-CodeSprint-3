@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		365383E71F7EC16C00B6E11F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 365383E61F7EC16C00B6E11F /* main.cpp */; };
+		365383EF1F7EC1AB00B6E11F /* Erupting Volcanoes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 365383EE1F7EC1AB00B6E11F /* Erupting Volcanoes.cpp */; };
+		365383F11F7EDAF300B6E11F /* The Snake vs the Wind.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 365383F01F7EDAF300B6E11F /* The Snake vs the Wind.cpp */; };
+		365383F31F7EE2C900B6E11F /* Bob's Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 365383F21F7EE2C900B6E11F /* Bob's Game.cpp */; };
+		365383F51F7F06D500B6E11F /* Black White Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 365383F41F7F06D500B6E11F /* Black White Tree.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,11 @@
 /* Begin PBXFileReference section */
 		365383E31F7EC16C00B6E11F /* University CodeSprint 3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "University CodeSprint 3"; sourceTree = BUILT_PRODUCTS_DIR; };
 		365383E61F7EC16C00B6E11F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		365383ED1F7EC17F00B6E11F /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		365383EE1F7EC1AB00B6E11F /* Erupting Volcanoes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Erupting Volcanoes.cpp"; sourceTree = "<group>"; };
+		365383F01F7EDAF300B6E11F /* The Snake vs the Wind.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "The Snake vs the Wind.cpp"; sourceTree = "<group>"; };
+		365383F21F7EE2C900B6E11F /* Bob's Game.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Bob's Game.cpp"; sourceTree = "<group>"; };
+		365383F41F7F06D500B6E11F /* Black White Tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Black White Tree.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +67,11 @@
 			isa = PBXGroup;
 			children = (
 				365383E61F7EC16C00B6E11F /* main.cpp */,
+				365383ED1F7EC17F00B6E11F /* Header.h */,
+				365383EE1F7EC1AB00B6E11F /* Erupting Volcanoes.cpp */,
+				365383F01F7EDAF300B6E11F /* The Snake vs the Wind.cpp */,
+				365383F21F7EE2C900B6E11F /* Bob's Game.cpp */,
+				365383F41F7F06D500B6E11F /* Black White Tree.cpp */,
 			);
 			path = "University CodeSprint 3";
 			sourceTree = "<group>";
@@ -119,7 +133,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				365383F51F7F06D500B6E11F /* Black White Tree.cpp in Sources */,
 				365383E71F7EC16C00B6E11F /* main.cpp in Sources */,
+				365383EF1F7EC1AB00B6E11F /* Erupting Volcanoes.cpp in Sources */,
+				365383F31F7EE2C900B6E11F /* Bob's Game.cpp in Sources */,
+				365383F11F7EDAF300B6E11F /* The Snake vs the Wind.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
